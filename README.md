@@ -1,2 +1,2 @@
-# ganlangjie-gmail.com
-JSON编辑、格式化
+# JSON编辑与格式化
+本地快捷的JSON编辑与格式化，让不能连外网的机器方便使用
